@@ -3,12 +3,6 @@ Interactive Excel dashboard analyzing employee turnover (11,991 employees after 
 
 # Employee Turnover Dashboard (Excel)
 
-
-
-![Dashboard Preview](screenshots/Dashboard Preview.jpeg)
-
-
-
 ## Overview
 An interactive Excel dashboard analyzing employee turnover across 11,991 employees. 
 It uses PivotTables, PivotCharts, and slicers to show who leaves, and how pay, 
