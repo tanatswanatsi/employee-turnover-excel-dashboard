@@ -5,7 +5,7 @@ Interactive Excel dashboard analyzing employee turnover (11,991 employees after 
 
 
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshots/Dashboard Preview.jpeg)
 
 
 
